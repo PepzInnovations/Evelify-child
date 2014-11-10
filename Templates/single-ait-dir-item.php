@@ -123,6 +123,18 @@
 			    
 			</dl>
 			{/if}
+<!-- hshao: calendar placeholder - statt -->
+<div id="contact-calendar-div">
+	<span> Calendar placeholder</span>
+	<span> The post id = <?php the_ID(); ?> </span>
+	<?php
+		global $wpdb; 
+		$events = $wpdb->get_row($wpdb->prepare("SELECT * FROM BK_EVENTS WHERE BUS_ID = %s", get_the_ID()));
+		echo($events->event_date);
+		get_calendar();
+	?>
+</div>
+<!-- hshao: calendar placeholder - statt -->
 
 			{if isset($options['emailContactOwner']) && (!empty($options['email']))}
 			<a id="contact-owner-button" class="contact-owner button" href="#contact-owner-form-popup">{_ "Contact owner"}</a>
