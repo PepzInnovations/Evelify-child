@@ -7,7 +7,7 @@
 		{ifset $type}
 			<p>{__ 'Apologies, but no results were found for the request.'}</p>
 		{else}
-			<p>{__ 'Apologies, but no results were found for the request. Perhaps searching will help find a related post.'}</p>
+			<p>{__ 'Apologies, but no results were found for the request. Perhaps searching will help find something.'}</p>
 			<div class="clearfix">
 				{include search-form.php}
 			</div>
