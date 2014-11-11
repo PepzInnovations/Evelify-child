@@ -11,8 +11,8 @@ $contactmethods['blank1'] = 'Blank1'; //first 3 blanks are removed by easy-admin
 $contactmethods['blank2'] = 'Blank2';
 $contactmethods['blank3'] = 'Blank3'; 
 $contactmethods['city'] = 'City';
-$user_contact['skype'] = __( 'Skype Username' ); 
 $contactmethods['phone'] = 'Phone number';
+$contactmethods['skype'] = 'Skype'; 
 $contactmethods['linkedin'] = 'LinkedIn';
 $contactmethods['facebook'] = 'Facebook';
  
