@@ -1,0 +1,1161 @@
+# Copyright (C) 2014 AitThemes http://www.ait-themes.com
+# This file is distributed under the same license as the AIT BusinessFinder WordPress Theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: BusinessFinder 1.31\n"
+"Report-Msgid-Bugs-To: http://support.ait-themes.com/categories/wp-businessfinder\n"
+"POT-Creation-Date: 2014-06-26T13:14:28+02:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: \Templates\archive.php:15
+#: \Templates\snippets\ajaxfunctions-javascript.php:415
+msgid "Search result"
+msgstr ""
+
+#: \Templates\archive.php:55
+msgid "Daily Archives:"
+msgstr ""
+
+#: \Templates\archive.php:57
+msgid "Monthly Archives:"
+msgstr ""
+
+#: \Templates\archive.php:59
+msgid "Yearly Archives:"
+msgstr ""
+
+#: \Templates\archive.php:61
+msgid "Blog Archives"
+msgstr ""
+
+#: \Templates\author.php:13
+msgid "Author Archives:"
+msgstr ""
+
+#: \Templates\author.php:38
+msgctxt "about author"
+msgid "About"
+msgstr ""
+
+#: \Templates\category.php:13
+msgid "Category Archives:"
+msgstr ""
+
+#: \Templates\comments-dir.php:13
+msgid "Close Comments"
+msgstr ""
+
+#: \Templates\comments-dir.php:15
+msgid "Show Comments"
+msgstr ""
+
+#: \Templates\comments-dir.php:50
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: \Templates\comments-dir.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: \Templates\comments-dir.php:78
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: \Templates\comments-dir.php:79
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: \Templates\comments-dir.php:80
+msgid "Leave a Comment"
+msgstr ""
+
+#: \Templates\comments-dir.php:81
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: \Templates\comments-dir.php:82
+msgid "Cancel Comment"
+msgstr ""
+
+#: \Templates\comments-dir.php:83
+msgid "Post Comment"
+msgstr ""
+
+#: \Templates\comments-dir.php:95
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: \Templates\header.php:159 \Templates\header.php:209
+msgid "Search keyword..."
+msgstr ""
+
+#: \Templates\header.php:165 \Templates\header.php:211
+msgid "All categories"
+msgstr ""
+
+#: \Templates\header.php:168 \Templates\header.php:214
+msgid "All locations"
+msgstr ""
+
+#: \Templates\header.php:174 \Templates\header.php:249
+msgid "Search"
+msgstr ""
+
+#: \Templates\header.php:205
+msgid "Map Search"
+msgstr ""
+
+#: \Templates\header.php:234
+msgid "Radius:"
+msgstr ""
+
+#: \Templates\index.php:11 \Templates\search.php:7
+msgid "Search Results for:"
+msgstr ""
+
+#: \Templates\index.php:47 \Templates\page.php:9 \Templates\single.php:8
+msgid "Permalink to"
+msgstr ""
+
+#: \Templates\page-fullwidth.php:16 \Templates\page.php:16
+msgid "Posted on"
+msgstr ""
+
+#: \Templates\page-fullwidth.php:21 \Templates\page.php:21
+msgid "by"
+msgstr ""
+
+#: \Templates\page-fullwidth.php:23
+msgid "View all posts by"
+msgstr ""
+
+#: \Templates\page-fullwidth.php:29 \Templates\page.php:29
+msgid "Comment on"
+msgstr ""
+
+#: \Templates\page.php:23
+msgid "View all posts by %s"
+msgstr ""
+
+#: \Templates\sections\best-places.php:4
+msgid "The Best Places"
+msgstr ""
+
+#: \Templates\sections\people-ratings.php:4
+msgid "People Saying"
+msgstr ""
+
+#: \Templates\sections\people-ratings.php:17
+#: \Templates\sections\special-offers.php:13
+msgid "at"
+msgstr ""
+
+#: \Templates\sections\recent-places.php:4
+msgid "Recent Places"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:13
+#: \Templates\single-ait-dir-item.php:211
+#: \Templates\single-ait-dir-item.php:213
+msgid "Item image"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:21
+#: \Templates\taxonomy-ait-dir-item-category.php:13
+#: \Templates\taxonomy-ait-dir-item-location.php:12
+#: AIT\Framework\WpLatte\WpLatteFunctions.php:
+msgid "Home"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:50
+msgid "Address:"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:55
+msgid "GPS:"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:60
+msgid "Telephone:"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:65
+msgid "Email:"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:70
+msgid "Web:"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:87
+msgid "Hours Open: "
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:90
+msgid "Monday:"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:95
+msgid "Tuesday:"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:100
+msgid "Wednesday:"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:105
+msgid "Thursday:"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:110
+msgid "Friday:"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:115
+msgid "Saturday:"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:120
+msgid "Sunday:"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:128
+msgid "Contact owner"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:133
+msgid "Contact Owner"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:136
+#: \Templates\single-ait-dir-item.php:168
+msgid "Your name"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:139
+#: \Templates\single-ait-dir-item.php:171
+msgid "Your email"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:142
+msgid "Subject"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:145
+msgid "Your message"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:147
+msgid "Send message"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:150
+msgid "Your message has been successfully sent"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:151
+msgid "Please fill out email, subject and message"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:160
+msgid "Own this business?"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:165
+msgid "Enter your claim"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:174
+msgid "Your phone number"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:177
+msgid "Username"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:180
+msgid "Your claim message"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:182
+msgid "Submit"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:185
+msgid "Your claim has been successfully sent"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:186
+msgid "Please fill out inputs!"
+msgstr ""
+
+#: \Templates\single-ait-dir-item.php:220
+msgid "Gallery image"
+msgstr ""
+
+#: \Templates\single.php:47
+msgctxt "about author"
+msgid ""
+msgstr ""
+
+#: \Templates\snippets\ajaxfunctions-javascript.php:247
+#: \Templates\snippets\map-javascript.php:168
+#: \Templates\snippets\map-single-javascript.php:134
+#: \Templates\snippets\map-single-javascript.php:231
+msgid "VIEW MORE"
+msgstr ""
+
+#: \Templates\snippets\ajaxfunctions-javascript.php:413
+msgid "No result found"
+msgstr ""
+
+#: \Templates\snippets\branding-header.php:79
+msgid "My Items"
+msgstr ""
+
+#: \Templates\snippets\branding-header.php:83
+msgid "Ratings"
+msgstr ""
+
+#: \Templates\snippets\branding-header.php:88
+msgid "Account"
+msgstr ""
+
+#: \Templates\snippets\branding-header.php:91
+msgid "View site"
+msgstr ""
+
+#: \Templates\snippets\branding-header.php:97
+msgid "Logout"
+msgstr ""
+
+#: \Templates\snippets\branding-header.php:99
+msgid "Admin"
+msgstr ""
+
+#: \Templates\snippets\branding-header.php:102
+msgid "Login"
+msgstr ""
+
+#: \Templates\snippets\branding-header.php:116
+msgid "Main Menu"
+msgstr ""
+
+#: \Templates\snippets\comments-link.php:7
+msgid "Leave a reply"
+msgstr ""
+
+#: \Templates\snippets\comments-link.php:13
+msgctxt "one reply"
+msgid "Reply"
+msgstr ""
+
+#: \Templates\snippets\comments-link.php:15
+msgctxt "more replies"
+msgid "Replies"
+msgstr ""
+
+#: \Templates\snippets\comments-pagination.php:4
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: \Templates\snippets\comments-pagination.php:5
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: \Templates\snippets\content-loop-dir-search.php:12
+#: \Templates\snippets\content-loop-dir-search.php:63
+#: \Templates\taxonomy-ait-dir-item-category.php:72
+#: \Templates\taxonomy-ait-dir-item-location.php:74
+msgid "Item thumbnail"
+msgstr ""
+
+#: \Templates\snippets\content-loop-dir-search.php:43
+#: \Templates\snippets\content-loop-dir-search.php:87
+#: \Templates\taxonomy-ait-dir-item-category.php:104
+#: \Templates\taxonomy-ait-dir-item-location.php:105
+msgid "No rating yet."
+msgstr ""
+
+#: \Templates\snippets\content-nav.php:3
+msgid "%s Newer posts"
+msgstr ""
+
+#: \Templates\snippets\content-nav.php:4
+msgid "%s Older posts"
+msgstr ""
+
+#: \Templates\snippets\map-javascript.php:242
+#: \Templates\snippets\map-javascript.php:249
+#: \Templates\snippets\map-single-javascript.php:246
+#: \Templates\snippets\map-single-javascript.php:253
+msgid "Deactivate map"
+msgstr ""
+
+#: \Templates\snippets\map-javascript.php:242
+#: \Templates\snippets\map-javascript.php:246
+#: \Templates\snippets\map-single-javascript.php:246
+#: \Templates\snippets\map-single-javascript.php:250
+msgid "Activate map"
+msgstr ""
+
+#: \Templates\snippets\nothing-found.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: \Templates\snippets\nothing-found.php:8
+msgid "Apologies, but no results were found for the request."
+msgstr ""
+
+#: \Templates\snippets\nothing-found.php:10
+msgid "Apologies, but no results were found for the request. Perhaps searching will help find a related post."
+msgstr ""
+
+#: \Templates\snippets\post-nav.php:2
+msgid "%s Previous"
+msgstr ""
+
+#: \Templates\snippets\post-nav.php:3
+msgid "%s Next"
+msgstr ""
+
+#: \Templates\snippets\search-form.php:2
+msgctxt "assistive-text"
+msgid "Search"
+msgstr ""
+
+#: \Templates\snippets\search-form.php:3
+msgctxt "search field placeholder"
+msgid "Search"
+msgstr ""
+
+#: \Templates\snippets\search-form.php:4
+msgctxt "search button text"
+msgid "Search"
+msgstr ""
+
+#: \Templates\snippets\sorting.php:5
+msgid "Showing"
+msgstr ""
+
+#: \Templates\snippets\sorting.php:5
+msgid "from"
+msgstr ""
+
+#: \Templates\snippets\sorting.php:5
+msgid "Items"
+msgstr ""
+
+#: \Templates\snippets\sorting.php:19
+msgid "Count:"
+msgstr ""
+
+#: \Templates\snippets\sorting.php:32
+msgid "Sort by:"
+msgstr ""
+
+#: \Templates\snippets\sorting.php:34
+msgid "Date"
+msgstr ""
+
+#: \Templates\snippets\sorting.php:35
+msgid "Title"
+msgstr ""
+
+#: \Templates\snippets\sorting.php:37
+msgid "Rating"
+msgstr ""
+
+#: \Templates\snippets\sorting.php:39
+msgid "Comment count"
+msgstr ""
+
+#: \Templates\snippets\sorting.php:40
+msgid "Packages"
+msgstr ""
+
+#: \Templates\snippets\sorting.php:45
+msgid "Sort:"
+msgstr ""
+
+#: \Templates\taxonomy-ait-dir-item-category.php:12
+#: \Templates\taxonomy-ait-dir-item-location.php:11
+msgid "You are here:"
+msgstr ""
+
+#: AIT\Framework\WpLatte\WpLatteFunctions.php:
+msgid "Page %s"
+msgstr ""
+
+#: AIT\Framework\WpLatte\WpLatteFunctions.php:
+msgid "Edit This"
+msgstr ""
+
+#: AIT\Framework\WpLatte\WpLatteFunctions.php:
+msgid "Edit comment"
+msgstr ""
+
+#: AIT\Framework\WpLatte\WpLatteFunctions.php:
+msgid "Category: \"%s\""
+msgstr ""
+
+#: AIT\Framework\WpLatte\WpLatteFunctions.php:
+msgid "Posts tagged &quot;%s&quot;"
+msgstr ""
+
+#: AIT\Framework\WpLatte\WpLatteFunctions.php:
+msgid "Author: &quot;%s&quot;"
+msgstr ""
+
+#: AIT\Framework\WpLatte\WpLatteFunctions.php:
+msgid "Search results for &quot;%s&quot;"
+msgstr ""
+
+#: AIT\Framework\WpLatte\WpLatteFunctions.php:
+msgid "Prev"
+msgstr ""
+
+#: AIT\Framework\WpLatte\WpLatteFunctions.php:
+msgid "Next"
+msgstr ""
+
+#: AIT\Framework\WpLatte\WpLatteFunctions.php:
+msgid "Error 404"
+msgstr ""
+
+#: ait-directory-login-widget.php:19
+msgid "Register or login TourOperator users form"
+msgstr ""
+
+#: ait-directory-login-widget.php:23
+msgid "Theme &rarr; TourOperator Login"
+msgstr ""
+
+#: ait-directory-login-widget.php:28
+msgid "Register or login directory users form"
+msgstr ""
+
+#: ait-directory-login-widget.php:32
+msgid "Theme &rarr; Directory Login"
+msgstr ""
+
+#: ait-directory-login-widget.php:64
+msgid "Username: "
+msgstr ""
+
+#: ait-directory-login-widget.php:66
+msgid "Account: "
+msgstr ""
+
+#: ait-directory-login-widget.php:72
+msgid "Item Offers"
+msgstr ""
+
+#: ait-directory-login-widget.php:73
+msgid "Reservations"
+msgstr ""
+
+#: ait-directory-login-widget.php:89
+msgid "Register"
+msgstr ""
+
+#: ait-directory-login-widget.php:107
+msgid "Email"
+msgstr ""
+
+#: ait-directory-login-widget.php:111
+msgid "Package"
+msgstr ""
+
+#: ait-directory-login-widget.php:122 ait-directory-login-widget.php:125
+msgid "year"
+msgstr ""
+
+#: ait-directory-login-widget.php:128
+msgid "month"
+msgstr ""
+
+#: ait-directory-login-widget.php:131
+msgid "week"
+msgstr ""
+
+#: ait-directory-login-widget.php:134
+msgid "day"
+msgstr ""
+
+#: ait-directory-login-widget.php:143
+msgid "per"
+msgstr ""
+
+#: ait-directory-login-widget.php:148
+msgid "Free"
+msgstr ""
+
+#: ait-directory-login-widget.php:158
+msgid "Sign up!"
+msgstr ""
+
+#: ait-directory-login-widget.php:188
+msgid "Sign up"
+msgstr ""
+
+#: ait-directory-login-widget.php:189
+msgid "Buy with PayPal"
+msgstr ""
+
+#: ait-directory-login-widget.php:246
+msgid "Login Description"
+msgstr ""
+
+#: ait-directory-login-widget.php:248
+msgid "Logout Description"
+msgstr ""
+
+#: ait-directory-login-widget.php:250
+msgid "Register Description"
+msgstr ""
+
+#: ait-flickr-widget.php:17
+msgid "Display flickr images"
+msgstr ""
+
+#: ait-flickr-widget.php:21
+msgid "Theme &rarr; Flickr"
+msgstr ""
+
+#: ait-flickr-widget.php:136
+msgid "RSS"
+msgstr ""
+
+#: ait-flickr-widget.php:141 ait-post-widget.php:184
+msgid "Number of posts"
+msgstr ""
+
+#: ait-flickr-widget.php:146 ait-post-widget.php:206
+msgid "Thumbnail width"
+msgstr ""
+
+#: ait-flickr-widget.php:151 ait-post-widget.php:211
+msgid "Thumbnail height"
+msgstr ""
+
+#: ait-post-widget.php:18
+msgid "Customize displaying posts"
+msgstr ""
+
+#: ait-post-widget.php:22
+msgid "Theme &rarr; Posts"
+msgstr ""
+
+#: ait-post-widget.php:123
+msgid "read more"
+msgstr ""
+
+#: ait-post-widget.php:189
+msgid "Excerpt length"
+msgstr ""
+
+#: ait-post-widget.php:196
+msgid "Show read more"
+msgstr ""
+
+#: ait-post-widget.php:202
+msgid "Show thumbnails"
+msgstr ""
+
+#: ait-post-widget.php:216
+msgid "Thumbnail position"
+msgstr ""
+
+#: ait-submenu-widget.php:15
+msgid "Show submenu"
+msgstr ""
+
+#: ait-submenu-widget.php:19
+msgid "Theme &rarr; Submenu"
+msgstr ""
+
+#: accounts-reg.php:112
+msgid "Directory Package"
+msgstr ""
+
+#: accounts-reg.php:113
+msgid "Upgrade to "
+msgstr ""
+
+#: accounts-reg.php:116
+msgid " Upgrade"
+msgstr ""
+
+#: accounts-reg.php:145
+msgid "for"
+msgstr ""
+
+#: accounts-reg.php:177 accounts-reg.php:210
+msgid "ERROR: Bad paypal API settings! Check paypal api credentials in admin settings!"
+msgstr ""
+
+#: accounts-reg.php:226 accounts-reg.php:375
+msgid "Your directory account was upgraded!"
+msgstr ""
+
+#: accounts-reg.php:228 accounts-reg.php:377
+msgid "Your directory account was activated! Check your email address for password!"
+msgstr ""
+
+#: accounts-reg.php:341
+msgid "PayPal recurring payments profile created. Your directory account was upgraded!"
+msgstr ""
+
+#: accounts-reg.php:343
+msgid "PayPal recurring payments profile created. Your directory account was activated! Check your email address for password!"
+msgstr ""
+
+#: accounts-reg.php:401
+msgid "You canceled payment. Your account wasn't changed."
+msgstr ""
+
+#: accounts-reg.php:405
+msgid "You canceled payment. Your account was registered but without option to add items. Upgrade your account in admin to add items."
+msgstr ""
+
+#: accounts-reg.php:413
+msgid "PayPal recurring payments profile is active."
+msgstr ""
+
+#: accounts-reg.php:413
+msgid "PayPal recurring payments profile isn't active."
+msgstr ""
+
+#: accounts-reg.php:433 accounts-reg.php:444
+msgid "Directory Account"
+msgstr ""
+
+#: accounts-reg.php:454
+msgid "None"
+msgstr ""
+
+#: accounts-reg.php:467
+msgid "Non-active"
+msgstr ""
+
+#: accounts-reg.php:479
+msgid "Account type"
+msgstr ""
+
+#: accounts-reg.php:485
+msgid "PayPal profile"
+msgstr ""
+
+#: accounts-reg.php:491
+msgid "PayPal profile ID"
+msgstr ""
+
+#: accounts-reg.php:496
+msgid "PayPal profile status"
+msgstr ""
+
+#: accounts-reg.php:501 accounts.php:470
+msgid "Days left before expiration"
+msgstr "Days left before expiration test"
+
+#: accounts-reg.php:510
+msgid "Upgrade account"
+msgstr ""
+
+#: accounts-reg.php:568
+msgid "Upgrade Account"
+msgstr ""
+
+#: accounts-reg.php:572
+msgid "Profile"
+msgstr ""
+
+#: accounts-reg.php:691
+msgid "Expired"
+msgstr ""
+
+#: accounts-reg.php:694
+msgid "Unlimited"
+msgstr ""
+
+#: accounts-reg.php:712
+msgid "ERROR: User registration is currently not allowed."
+msgstr ""
+
+#: accounts-reg.php:721
+msgid "ERROR: Please enter a username."
+msgstr ""
+
+#: accounts-reg.php:723
+msgid "ERROR: This username is invalid because it uses illegal characters. Please enter a valid username."
+msgstr ""
+
+#: accounts-reg.php:726
+msgid "ERROR: This username is already registered. Please choose another one."
+msgstr ""
+
+#: accounts-reg.php:731
+msgid "ERROR: Please type your e-mail address."
+msgstr ""
+
+#: accounts-reg.php:733
+msgid "ERROR: The email address isn&#8217;t correct."
+msgstr ""
+
+#: accounts-reg.php:736
+msgid "ERROR: This email is already registered, please choose another one."
+msgstr ""
+
+#: accounts-reg.php:749
+msgid "ERROR: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: accounts.php:238 rating.php:267
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: accounts.php:269
+msgid "Sorry but you have maximum items for your account type. Upgrade your account to insert new items!"
+msgstr ""
+
+#: accounts.php:467
+msgid "PayPal recurring payments profile ID"
+msgstr ""
+
+#: accounts.php:469
+msgid "Activation time"
+msgstr ""
+
+#: accounts.php:471
+msgid "Last PayPal transaction ID"
+msgstr ""
+
+#: claim-listing.php:86
+msgid "This username is already registered. Please choose another one."
+msgstr ""
+
+#: claim-listing.php:90
+msgid "This email is already registered, please choose another one."
+msgstr ""
+
+#: claim-listing.php:99 directory.php:505
+msgid "Bad nonce"
+msgstr ""
+
+#: claim-listing.php:115
+msgid "Error with registering claim"
+msgstr ""
+
+#: claim-listing.php:156
+msgid "Please fill out inputs"
+msgstr ""
+
+#: claim-listing.php:169 rating.php:124 rating.php:134
+msgid "Name"
+msgstr ""
+
+#: claim-listing.php:172
+msgid "Phone number"
+msgstr ""
+
+#: claim-listing.php:173
+msgid "Claim for"
+msgstr ""
+
+#: claim-listing.php:174 rating.php:127 rating.php:137
+msgid "Message"
+msgstr ""
+
+#: claim-listing.php:175
+msgid "Created"
+msgstr ""
+
+#: claim-listing.php:176 rating.php:129 rating.php:139
+msgid "Status"
+msgstr ""
+
+#: claim-listing.php:212 rating.php:196
+msgid "Approved"
+msgstr ""
+
+#: claim-listing.php:214 rating.php:198
+msgid "Approve"
+msgstr ""
+
+#: claim-listing.php:258
+msgid "Claim was approved! New user was registered and assignated to Item. Email with generated password was sent."
+msgstr ""
+
+#: directory.php:513
+msgid "Error with sending email"
+msgstr ""
+
+#: directory.php:517
+msgid "Please fill out name, email, subject and message"
+msgstr ""
+
+#: rating.php:125 rating.php:135
+msgid "Rating for"
+msgstr ""
+
+#: rating.php:191
+msgid "Mean"
+msgstr ""
+
+#: rating.php:295
+msgid "Rating Details"
+msgstr ""
+
+#: rating.php:305
+msgid "Rating for: "
+msgstr ""
+
+#: rating.php:462
+msgid "Leave a review"
+msgstr ""
+
+#: rating.php:464 rating.php:475
+msgid "Your rating has been successfully sent"
+msgstr ""
+
+#: rating.php:466
+msgid "You have already rated"
+msgstr ""
+
+#: rating.php:471
+msgid "Your Name"
+msgstr ""
+
+#: rating.php:472
+msgid "Description"
+msgstr ""
+
+#: rating.php:473
+msgid "Send rating"
+msgstr ""
+
+#: rating.php:474
+msgid "Please fill out all fields!"
+msgstr ""
+
+#: rating.php:617
+msgid "Rating was approved!"
+msgstr ""
+
+#: easy-admin-footer.php:5
+msgid "Add new item"
+msgstr ""
+
+#: dir-item.php:15 dir-item.php:23
+msgctxt "post type general name"
+msgid "Items"
+msgstr ""
+
+#: dir-item.php:16
+msgctxt "post type singular name"
+msgid "Item"
+msgstr ""
+
+#: dir-item.php:17
+msgctxt "item"
+msgid "Add new"
+msgstr ""
+
+#: dir-item.php:19
+msgid "Edit item"
+msgstr ""
+
+#: dir-item.php:20
+msgid "New item"
+msgstr ""
+
+#: dir-item.php:21
+msgid "No items found"
+msgstr ""
+
+#: dir-item.php:22
+msgid "No items found in Trash"
+msgstr ""
+
+#: dir-item.php:25
+msgid "Manipulating with items"
+msgstr ""
+
+#: dir-item.php:57
+msgid "Item Categories"
+msgstr ""
+
+#: dir-item.php:58
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: dir-item.php:59
+msgid "Search Category"
+msgstr ""
+
+#: dir-item.php:60
+msgid "All Categories"
+msgstr ""
+
+#: dir-item.php:61
+msgid "Parent Category"
+msgstr ""
+
+#: dir-item.php:62
+msgid "Parent Category:"
+msgstr ""
+
+#: dir-item.php:63
+msgid "Edit Category"
+msgstr ""
+
+#: dir-item.php:64
+msgid "Update Category"
+msgstr ""
+
+#: dir-item.php:65
+msgid "Add New Category"
+msgstr ""
+
+#: dir-item.php:66
+msgid "New Category Name"
+msgstr ""
+
+#: dir-item.php:78
+msgid "Item Locations"
+msgstr ""
+
+#: dir-item.php:79
+msgctxt "taxonomy singular name"
+msgid "Location"
+msgstr ""
+
+#: dir-item.php:80
+msgid "Search Location"
+msgstr ""
+
+#: dir-item.php:81
+msgid "All Locations"
+msgstr ""
+
+#: dir-item.php:82
+msgid "Parent Location"
+msgstr ""
+
+#: dir-item.php:83
+msgid "Parent Location:"
+msgstr ""
+
+#: dir-item.php:84
+msgid "Edit Location"
+msgstr ""
+
+#: dir-item.php:85
+msgid "Update Location"
+msgstr ""
+
+#: dir-item.php:86
+msgid "Add New Location"
+msgstr ""
+
+#: dir-item.php:87
+msgid "New Location Name"
+msgstr ""
+
+#: dir-item.php:119
+msgid "Options for item"
+msgstr ""
+
+#: dir-item.php:169 dir-item.php:179
+msgid "Image"
+msgstr ""
+
+#: dir-item.php:170 dir-item.php:180
+msgid "Address"
+msgstr ""
+
+#: dir-item.php:171 dir-item.php:181
+msgid "Categories"
+msgstr ""
+
+#: dir-item.php:172 dir-item.php:182
+msgid "Locations"
+msgstr ""
+
+#: dir-item.php:178
+msgid "Author"
+msgstr ""
+
+#: dir-item.php:227 dir-item.php:255
+msgctxt "category item excerpt"
+msgid "Excerpt"
+msgstr ""
+
+#: dir-item.php:233 dir-item.php:259 dir-item.php:311 dir-item.php:417
+msgctxt "item"
+msgid "Icon"
+msgstr ""
+
+#: dir-item.php:238 dir-item.php:263
+msgid "Icon for category"
+msgstr ""
+
+#: dir-item.php:242 dir-item.php:266
+msgid "Map Marker"
+msgstr ""
+
+#: dir-item.php:247 dir-item.php:270
+msgid "Marker image in map for category"
+msgstr ""
+
+#: dir-item.php:308 dir-item.php:414
+msgctxt "item"
+msgid "Name"
+msgstr ""
+
+#: dir-item.php:309 dir-item.php:415
+msgctxt "item"
+msgid "Description"
+msgstr ""
+
+#: dir-item.php:310 dir-item.php:416
+msgctxt "item"
+msgid "Excerpt"
+msgstr ""
+
+#: dir-item.php:312
+msgctxt "item"
+msgid "Marker"
+msgstr ""
+
+#: dir-item.php:313 dir-item.php:418
+msgctxt "item"
+msgid "Slug"
+msgstr ""
+
+#: dir-item.php:357 dir-item.php:376
+msgctxt "item location"
+msgid "Excerpt"
+msgstr ""
+
+#: dir-item.php:363 dir-item.php:380
+msgctxt "item location"
+msgid "Icon"
+msgstr ""
+
+#: dir-item.php:368 dir-item.php:384
+msgctxt "item location"
+msgid "Icon for location"
+msgstr ""
