@@ -10,13 +10,11 @@ function wpsites_add_remove_user_contact_fields( $contactmethods ) {
 $contactmethods['blank1'] = 'Blank1'; //first 3 blanks are removed by easy-admin-profile.js in businessfindertheme
 $contactmethods['blank2'] = 'Blank2';
 $contactmethods['blank3'] = 'Blank3'; 
-$contactmethods['twitter'] = 'Twitter';
-$contactmethods['facebook'] = 'Facebook';
-$contactmethods['Youtube'] = 'YouTube';
+$contactmethods['city'] = 'City';
+$user_contact['skype'] = __( 'Skype Username' ); 
+$contactmethods['phone'] = 'Phone number';
 $contactmethods['linkedin'] = 'LinkedIn';
-$contactmethods['skype'] = 'Skype';
-$contactmethods['googleplus'] = 'Google Plus';
-$contactmethods['test'] = 'Test veld';
+$contactmethods['facebook'] = 'Facebook';
  
 //unset($contactmethods['aim']);
 //unset($contactmethods['yim']);
